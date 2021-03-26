@@ -6,6 +6,8 @@
 
 ## Success Screenshot
 
+![Success Screenshot](/img/travis_success.png)
+
 ## Failure Screenshot
 
 ![Fail Screenshot](/img/travis_fail.png)
