@@ -30,7 +30,7 @@ public class PriorityQueueTest {
         }
         // TODO get PriorityQueue result
         int testSize = test.size();
-        for (int i=0; i<testSize; i++){
+        for (int i=testSize-1; i>=0; i--){
             result[i]=test.poll();
         }
         assertArrayEquals(correct_array, result);
